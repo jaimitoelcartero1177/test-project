@@ -1,4 +1,5 @@
 # AWS Mac Mini Project
-Este proyecto usa el estándar de agentes.
-## Inicialización
-El sistema de bootstrap está configurado en `.agents/skills/system_bootstrap.md`. Por favor, ejecútalo antes de empezar cualquier tarea.
+This project uses the Agents standard.
+
+## Initialization
+The Bootstrap system is configured in `.agents/skills/system_bootstrap.md`. Please run it before starting any tasks.
