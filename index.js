@@ -1,0 +1,1 @@
+console.log("AWS Telemetry Tool initialized...");

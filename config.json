@@ -1,0 +1,11 @@
+{
+  "name": "aws-telemetry-tool",
+  "version": "2.1.0",
+  "dependencies": {
+    "aws-sdk": "^2.1500.0",
+    "node-fetch": "^2.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
